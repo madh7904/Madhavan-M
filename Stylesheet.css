@@ -1,0 +1,78 @@
+
+#a,#aa,#aaa,#b,#bb,#ba,#c,#ca,#cg,#cb,#d,#x,#e,#ea,#eb,#ec,#f,#fa,#fc,#fb,#g,#ga,#gb,#gc,#gd,#ge,#gf,#gg,#gh,#gi,#gj,#gk,#gl,#gm,#gn,#go,#gp,#gq,#gr,#gs,#gt,#gu,#gv,#gw,#gx,#gy,#gz,#gaa,
+#gab,#gac,#gad,gae,#gaf,#gag,#gah,#gai,#gaj,#h,#ha,#i,#ia,#j,#k,ja,#ka{   
+  margin: 3px;border: 3px;padding: 3px;
+}
+
+
+#z{
+  width: 120px;
+  border-style: solid;border-width: 5px; border-color: orange;
+  float: left;
+}
+#a{
+  color: black;background-color: orange;width: 290px;
+  margin-left: 135px;margin-right: 250px;
+}
+#aa{
+  color: black;background-color: orange; width: 290px;
+  margin-left: 135px;margin-right: 250px
+}
+#aaa{
+  color: black;background-color: orange; width: 290px;
+  margin-left: 135px
+}
+#ab{
+  margin-top: 80px
+}
+#b{
+  background-color: orange;
+}
+#bb{
+  margin-bottom: : 1px;border-bottom: : 1px;padding-bottom: : 1px
+}
+#c{
+  background-color: orange;
+}
+#ca{
+  
+}
+#d{background-color: orange;
+  
+}
+#x{
+  
+}
+#ca,#cc,#cb,#cd,#ce,#cf,#cg,#fc,#ia{
+  font-size: larger ;font-weight: 900
+}
+#e{
+  background-color: orange;
+  
+}
+#f{
+  background-color: orange;
+}
+#fa,#fb{
+  
+}
+
+#g{
+  background-color: orange;
+}
+
+#gb,#ge,#gi,#gl,#gn,#gq,#gt,#gw,#gy,#gaa,#gac,#gah{
+  background-color: orange; width: 57%
+}
+#h,#i,#j,#k{
+  background-color: orange;
+}
+#l{
+  
+}
+#m{
+  float: right
+}
+#n{
+  display: block
+}
